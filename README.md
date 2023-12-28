@@ -74,3 +74,9 @@ Pug Main Page
 ![My animated logo](https://i.imgur.com/wPATny7.png)
 ![My animated logo](https://i.imgur.com/f4gb00D.png)
 ![My animated logo](https://i.imgur.com/9uHoznF.png)
+
+Web Panel to manage ban from the servers
+![My animated logo](https://i.imgur.com/EBNwcjX.png)
+![My animated logo](https://i.imgur.com/4JBfrfW.png)
+![My animated logo](https://i.imgur.com/gjiG7Fz.png)
+![My animated logo](https://i.imgur.com/0NGzDhb.png)
